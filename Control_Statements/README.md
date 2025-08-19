@@ -21,12 +21,17 @@ elif condition3:
     statements
 else:
     statements
+```
 
-
+### Syntax:
+```
 for variable in sequence:   # sequence → list, tuple, dict, string, range
     statements
+```
 
+### Syntax:
+```
 while condition:
     statements
-
+```
 
