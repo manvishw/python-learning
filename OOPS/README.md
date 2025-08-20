@@ -41,3 +41,5 @@ class Character:
 
 warrior = Character("Shazam", 100)
 print(warrior.name)   # Output: Shazam
+
+```
